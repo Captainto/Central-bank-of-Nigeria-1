@@ -3,7 +3,7 @@
 
 
 # Sub-header
-<h1> Daily withrawal and deposits for both private and enterprise </h1>
+<h2> Daily withrawal and deposits for both private and enterprise </h2>
 
 Updated monetary policy of the Federal government of Nigeria come 2023
 This policy is targeted at cobing money laundary acitivities amonsgt politicians and other organisations licenced under the
